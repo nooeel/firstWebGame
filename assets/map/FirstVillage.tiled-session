@@ -5,9 +5,9 @@
     },
     "activeFile": "FirstVillage.tmx",
     "expandedProjectPaths": [
+        "F:/GameCoding/WebGame/FirstProject/assets",
         ".",
-        "F:/GameCoding/WebGame/FirstProject/assets/tilesets",
-        "F:/GameCoding/WebGame/FirstProject/assets"
+        "F:/GameCoding/WebGame/FirstProject/assets/tilesets"
     ],
     "fileStates": {
         "F:/GameCoding/WebGame/FirstProject/assets/tilesets/First Asset pack.tsx": {
@@ -36,15 +36,17 @@
         },
         "FirstVillage.tmx": {
             "scale": 1.67734375,
-            "selectedLayer": 6,
+            "selectedLayer": 7,
             "viewCenter": {
                 "x": 236.38565440149046,
                 "y": 255.76152771308804
             }
         }
     },
+    "last.exportedFilePath": "F:/GameCoding/WebGame/FirstProject/src/data",
     "last.imagePath": "F:/GameCoding/WebGame/FirstProject/assets/raw",
     "map.height": 32,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
@@ -55,7 +57,6 @@
         "F:/GameCoding/WebGame/FirstProject/assets/tilesets/IceTileset.tsx",
         "F:/GameCoding/WebGame/FirstProject/assets/tilesets/RPG Nature Tileset Autumn.tsx",
         "F:/GameCoding/WebGame/FirstProject/assets/tilesets/RPG Nature Tileset.tsx",
-        "F:/GameCoding/WebGame/FirstProject/assets/tilesets/barrier.tsx",
         "F:/GameCoding/WebGame/FirstProject/assets/tilesets/barrier.tsx"
     ],
     "project": "FirstVillage.tiled-project",
