@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="30" height="32" tilewidth="16" tileheight="16" infinite="0" nextlayerid="10" nextobjectid="1">
+ <editorsettings>
+  <export target="../../src/data/FirstVillage.json" format="json"/>
+ </editorsettings>
  <tileset firstgid="1" source="../tilesets/RPG Nature Tileset.tsx"/>
  <tileset firstgid="721" source="../tilesets/Serene_Village_16x16.tsx"/>
  <tileset firstgid="1576" source="../tilesets/barrier.tsx"/>
+ <tileset firstgid="1577" source="../tilesets/First Asset pack.tsx"/>
+ <tileset firstgid="1577" source="../tilesets/IceTileset.tsx"/>
+ <tileset firstgid="2297" source="../tilesets/RPG Nature Tileset Autumn.tsx"/>
  <layer id="1" name="Water" width="30" height="32">
   <data encoding="csv">
 583,584,583,584,583,584,583,584,583,584,583,584,583,584,583,584,583,584,583,584,583,584,583,584,583,584,583,584,583,584,
@@ -255,7 +261,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="8" name="collisionblock" width="30" height="32">
+ <layer id="8" name="collisionblock" width="30" height="32" visible="0">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,1576,0,0,0,1576,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,1576,0,0,0,1576,0,0,0,0,0,0,0,0,0,0,0,
